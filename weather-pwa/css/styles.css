@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    font-family: sans-serif;
+    background: #e0f7fa;
+    color: #006064;
+}
+main {
+    max-width: 400px;
+    margin: 2rem auto;
+}
+input, button {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+button {
+    cursor: pointer;
+}
+#weather-info {
+    margin-top: 1rem;
+}
+#back, #new-search {
+    margin-bottom: 1rem;
+}
